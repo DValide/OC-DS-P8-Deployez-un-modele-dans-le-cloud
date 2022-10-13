@@ -1,9 +1,4 @@
-# Project_8_OC_BigData_AWS_Spark
-
 ![image](https://user-images.githubusercontent.com/25401003/191027081-d4f528b2-9c71-491f-8749-d18cb3b999fe.png)
-
-
-Dolores VALIDE
 
 ## Enoncé 
 Vous êtes donc chargé de **développer** dans un environnement **Big Data** une première chaîne de traitement
